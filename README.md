@@ -14,7 +14,6 @@ The project uses a structured business dataset containing customer, sales, and p
 - Product details (name, category, price)
 - Sales transactions (quantity, discounts applied, revenue)
 
-*Note: The dataset can be substituted with any similar business dataset for replication.*
 
 ---
 
@@ -55,7 +54,3 @@ The Power BI dashboard includes:
 
 ---
 
-## How to Run
-1. Clone the repository:
-```bash
-git clone <your-repo-link>
